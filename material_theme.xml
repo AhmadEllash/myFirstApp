@@ -2,10 +2,9 @@
   <component name="MaterialThemeConfig">
     <option name="isWizardShown" value="true" />
     <option name="pristineConfig" value="false" />
-    <option name="treeFontSizeEnabled" value="true" />
-    <option name="tabFontSizeEnabled" value="true" />
     <option name="upperCaseButtons" value="false" />
-    <option name="treeFontSize" value="18" />
+    <option name="useMaterialFont2" value="true" />
+    <option name="treeFontSize" value="24" />
     <option name="tabFontSize" value="21" />
     <option name="settingsSelectedTab" value="3" />
     <option name="accentColor" value="2aa298" />
